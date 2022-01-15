@@ -1,7 +1,7 @@
 Simple introduction:
 
 - :technologist: Hi, I’m @8kigai
-- :office: founder of kvantum softwork 
+- :office: founded and work in kvantum softwork
 - :shinto_shrine: why 8kigai?... because we should have [sense of purpose in life](https://en.wikipedia.org/wiki/Ikigai)
 - 🦾: javascript, nodejs, deno, rust and etc...
 - 📫 you can DM for any of your software issue but please do not spam me. 
